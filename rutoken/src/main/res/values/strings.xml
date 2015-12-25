@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">rutoken</string>
+
+
+
+    <!--<string name="turn_bt_on">Please turn on Bluetooth</string>-->
+    <!--<string name="no_token">Connect the token please</string>-->
+    <!--<string name="wait_token" formatted="false">Please connect\n%s </string>-->
+    <!--<string name="no_certificate">Certificate is missing</string>-->
+    <!--<string name="pin_hint">Input PIN</string>-->
+    <!--<string name="ok">OK</string>-->
+    <!--<string name="pin_alert">PIN incorrect, try again</string>-->
+    <!--<string name="sign">Sign and Send</string>-->
+    <!--<string name="error">Internal error</string>-->
+    <!--<string name="done">Operation finished</string>-->
+    <!--<string name="need_pin_message">You need to input PIN to proceed.</string>-->
+    <!--<string name="batch_sign_message" formatted="false">%d payments will be sent.</string>-->
+    <!--<string name="batch_require_proceed">Please, confirm operation.</string>-->
+</resources>

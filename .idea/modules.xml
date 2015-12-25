@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestEDS.iml" filepath="$PROJECT_DIR$/TestEDS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rutoken/rutoken.iml" filepath="$PROJECT_DIR$/rutoken/rutoken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rutokencryptopro/rutokencryptopro.iml" filepath="$PROJECT_DIR$/rutokencryptopro/rutokencryptopro.iml" />
+    </modules>
+  </component>
+</project>
